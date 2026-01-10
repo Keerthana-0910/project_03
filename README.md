@@ -50,10 +50,15 @@ Model training using:
 2. Decision Tree
 3. Random Forest
 4. XGBoost
+   
 Model evaluation using MAE, RMSE, and R² score
+
 Selection of best-performing model
+
 Pipeline creation and saving
+
 Deployment using Streamlit web application
+
 Feature scaling using StandardScaler
 
 📈 Skills Learned
