@@ -28,16 +28,17 @@ Enable quick what-if analysis for customers
 
 Dataset used: Insurance customer dataset (processed for ML modeling)
 
-Column Name	Description
-Age	Customer age
-Gender	Male / Female
-Annual Income	Yearly income of customer
-Marital Status	Single / Married
-Number of Dependents	Count of dependents
-Education Level	Educational qualification
-Smoker Status	Smoker / Non-smoker
-Policy Type	Insurance policy category
-Premium Amount	Target variable (Insurance Premium)
+| Column Name          | Description                         |
+| -------------------- | ----------------------------------- |
+| Age                  | Customer age                        |
+| Gender               | Male / Female                       |
+| Annual Income        | Yearly income of customer           |
+| Marital Status       | Single / Married                    |
+| Number of Dependents | Count of dependents                 |
+| Education Level      | Educational qualification           |
+| Smoker Status        | Smoker / Non-smoker                 |
+| Policy Type          | Insurance policy category           |
+| Premium Amount       | Target variable (Insurance Premium) |
 
 🔍 Approach
 
@@ -67,13 +68,16 @@ End-to-end ML deployment workflow
 🧰 Technology Stack
 
 Category	Tools
-Programming Language	Python
-Data Handling	Pandas, NumPy
-Visualization	Matplotlib, Seaborn
-Machine Learning	Scikit-learn, XGBoost
-Model Serialization	Pickle
-Web Application	Streamlit
-Concepts	EDA, Regression, Pipelines, Deployment
+
+| Category             | Tools                                  |
+| -------------------- | -------------------------------------- |
+| Programming Language | Python                                 |
+| Data Handling        | Pandas, NumPy                          |
+| Visualization        | Matplotlib, Seaborn                    |
+| Machine Learning     | Scikit-learn, XGBoost                  |
+| Model Serialization  | Pickle                                 |
+| Web Application      | Streamlit                              |
+| Concepts             | EDA, Regression, Pipelines, Deployment |
 
 🌐 Application Deployment
 
