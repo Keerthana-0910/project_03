@@ -88,8 +88,13 @@ Real-time insurance premium prediction
 📦 Project Deliverables
 
 Python source code (ML & preprocessing pipeline)
+
 Trained model pipeline (smartpremium_pipeline.pkl)
+
 Streamlit application script
+
 Model evaluation results
+
 requirements.txt
+
 Project documentation (README.md)
